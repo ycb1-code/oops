@@ -1,15 +1,8 @@
 {
-  "name": "OP SQUAD",
+  "name": "Opsquad",
   "symbol": "OP",
-  "description": "TO BE OP",
+  "description": "OP token for gaming and esports",
   "image": "https://c8.alamy.com/comp/2GN8MT2/op-initial-esport-gaming-logo-modern-head-skull-shape-template-vector-logo-2GN8MT2.jpg",
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://c8.alamy.com/comp/2GN8MT2/op-initial-esport-gaming-logo-modern-head-skull-shape-template-vector-logo-2GN8MT2.jpg",
-        "type": "image/jpg"
-      }
-    ]
-  }
+  "seller_fee_basis_points": 0,
+  "attributes": []
 }
